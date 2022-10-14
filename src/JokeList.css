@@ -1,0 +1,26 @@
+@import url("https://use.fontawesome.com/releases/v5.3.1/css/all.css");
+
+.JokeList {
+  margin: auto;
+  text-align: center;
+}
+
+.loading {
+  width: 4em;
+  margin: 200px auto 0 auto;
+  color: #db304d;
+}
+
+.JokeList-btn {
+  margin: 24px 8px;
+  font-size: 20px;;
+  border-radius: 16px;
+  background-color: #db304d;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+}
+
+button {
+  cursor: pointer;
+}
